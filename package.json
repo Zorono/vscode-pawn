@@ -130,6 +130,6 @@
         "@types/mocha": "^7.0.1"
     },
     "dependencies": {
-        "axios": "^0.21.3"
+        "axios": "^1.6.4"
     }
 }
